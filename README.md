@@ -1,1 +1,1 @@
-# AlsoStudy
+# AlgoStudy
